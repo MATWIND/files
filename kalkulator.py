@@ -1,2 +1,2 @@
 print "UPDATE VERSI TERBARU"
-print "ketik git clone https://hithub.com/MATWIND/A"
+print "KETIK git clone https://github.com/MATWIND/A"
